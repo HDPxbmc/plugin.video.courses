@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.courses"
+  name="HDP公开课"
+  version="1.0.0"
+  provider-name="Wenl">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+  <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>HDPfans courses</summary>
+    <summary lang="zh">HDPfans公开课</summary>
+    <description>HDPfans 公开课</description>
+    <description lang="zh">高清范公开课插件，涵盖各世界名校公开课内容。更多xbmc优秀插件分享，插件编写教程请上高清范网站 http://www.hdpfans.com</description>
+    <disclaimer>本插件数据均源自互联网数据聚合，仅供学习和研究使用。</disclaimer>
+  </extension>
+</addon>
